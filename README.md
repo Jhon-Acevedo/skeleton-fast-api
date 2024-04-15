@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# skeleton-fast-api
-=======
-# FastAPI Auth
+# Skeleton-fast-api: JWT, SQLAlchemy, FastAPI
 
 ## Instalation
 
@@ -25,7 +22,6 @@ This project contains the code for creating the below four apis
 
 ### Additional
 
-- You will learn how to configure mysql in FastAPI
+- You will learn how to configure postgresql or Mysql in FastAPI
 - You will learn how to add connection pooling in SQLAlchemy
 - You will learn how to configure and get authenticated user form Request
->>>>>>> 1c52e69bbe6b69b7ffb2d29019de1e8a2c7e93ac
